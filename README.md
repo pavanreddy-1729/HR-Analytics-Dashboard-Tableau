@@ -4,7 +4,7 @@ An interactive HR Analytics Dashboard built in Tableau, analyzing employee attri
 
 ## 🔗 Live Interactive Dashboard
 
-[**View on Tableau Public →**]([](https://public.tableau.com/app/profile/pavan.daggula/viz/HRDASHBOARD_17781879266050/HRANALYTICSDASHBOARD))
+(https://public.tableau.com/app/profile/pavan.daggula/viz/HRDASHBOARD_17781879266050/HRANALYTICSDASHBOARD)
 
 ## 🎯 Project Objective
 
